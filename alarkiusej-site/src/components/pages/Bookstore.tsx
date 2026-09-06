@@ -20,6 +20,11 @@ export default function Bookstore() {
           B&N will be my second home, native to the US.
           Coming to Google Play Books Soon
         </p>
+        <img
+          src="/avaliable-at.png"
+          alt="Available at Barnes & Noble Booksellers and Google Play Books"
+          className="h-16 sm:h-20 w-auto mt-6"
+        />
       </section>
 
       <div className="max-w-5xl mx-auto px-6 pt-8 pb-4">
