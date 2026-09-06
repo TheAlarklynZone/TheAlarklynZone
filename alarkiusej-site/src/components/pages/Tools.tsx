@@ -184,9 +184,10 @@ export default function Tools() {
           <p className="text-rose text-xs font-medium tracking-widest uppercase mb-3">
             The Alarklyn Zone
           </p>
-          <h1 className="font-serif text-4xl sm:text-5xl font-bold text-text mb-4">
-            Tools & Apps | App Hobbyist Developer
+          <h1 className="font-serif text-4xl sm:text-5xl font-bold text-text mb-2">
+            Tools & Apps
           </h1>
+          <p className="text-text-muted text-lg mb-4">App Hobbyist Developer</p>
           <div className="flex flex-wrap gap-2 mb-5">
             <span className="tag tag-rose text-xs">Open Source</span>
             <span className="tag tag-rose text-xs">Desktop Apps</span>
@@ -198,9 +199,10 @@ export default function Tools() {
               <span className="text-gold font-semibold">Apps built by Alarkius Elvya Jay.</span>{' '}
               Every tool is free, open-source, no subscriptions, no paywalls — ever. Built for
               writers, creators, and anyone who wants their workflow to feel a little more magical.
-              
-              All Creative Control Direction (Functions & Features and Visuals) is made by Me, AlarkiusEJ. 
-              I use Claude Code to help execute logic and functions, along with syntax. I'm not an expert. 
+              <br />
+              <br />
+              All Creative Control Direction (Functions & Features and Visuals) is made by Me, AlarkiusEJ.
+              I use Claude Code to help execute logic and functions, along with syntax. I'm not an expert.
               I just like doing these stuff for fun!
             </p>
           </div>
