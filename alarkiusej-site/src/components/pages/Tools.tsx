@@ -17,7 +17,7 @@ const liveTools = [
     tagline: 'Multi-profile Discord Rich Presence manager',
     description:
       'Run up to 5 named Discord Rich Presence profiles, toggle one active at a time, with a Discord-accurate live preview, auto-rotation scheduling, encrypted bot-token export, and seamless auto-updates from GitHub Releases.',
-    status: 'Released — v1.9.9.3',
+    status: 'Released — v2.0.0',
     statusColor: 'success',
     platform: 'Windows · macOS · Linux (Electron)',
     href: 'https://github.com/TheAlarklynZone/MultiRPCustomizer/releases',
@@ -185,7 +185,7 @@ export default function Tools() {
             The Alarklyn Zone
           </p>
           <h1 className="font-serif text-4xl sm:text-5xl font-bold text-text mb-4">
-            Tools & Apps
+            Tools & Apps | App Hobbyist Developer
           </h1>
           <div className="flex flex-wrap gap-2 mb-5">
             <span className="tag tag-rose text-xs">Open Source</span>
@@ -198,6 +198,10 @@ export default function Tools() {
               <span className="text-gold font-semibold">Apps built by Alarkius Elvya Jay.</span>{' '}
               Every tool is free, open-source, no subscriptions, no paywalls — ever. Built for
               writers, creators, and anyone who wants their workflow to feel a little more magical.
+              
+              All Creative Control Direction (Functions & Features and Visuals) is made by Me, AlarkiusEJ. 
+              I use Claude Code to help execute logic and functions, along with syntax. I'm not an expert. 
+              I just like doing these stuff for fun!
             </p>
           </div>
         </div>
