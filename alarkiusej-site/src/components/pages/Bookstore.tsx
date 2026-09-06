@@ -27,7 +27,7 @@ export default function Bookstore() {
         />
       </section>
 
-      <div className="max-w-5xl mx-auto px-6 pt-8 pb-4">
+      <div className="max-w-5xl mx-auto px-6">
         <div className="section-divider" />
       </div>
 
