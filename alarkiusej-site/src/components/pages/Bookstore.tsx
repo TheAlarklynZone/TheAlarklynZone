@@ -18,7 +18,6 @@ export default function Bookstore() {
           This bookstore will house all my author exclusive originals, my main hub. 
           Direct Shipping and Printing is done by Lulu Direct!
           B&N will be my second home, native to the US.
-          Coming to Google Play Books Soon
         </p>
         <img
           src="/avaliable-at.png"
