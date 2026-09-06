@@ -48,6 +48,17 @@ const liveTools = [
     icon: '📝',
     tags: ['Gallery App', 'Organization', 'Desktop', 'Open Source'],
   },
+    {
+    name: 'Lumicidate',
+    tagline: 'A Creative Habit Tracker App',
+    description: 'A free, open-source, dark-mode-first Routine Habit Tracker app that allows you to highly customize your routines and events. An app made for artists, creators, content creators! Along with ADHD, AUDHD, and Austistic Creators.',
+    status: 'In Development',
+    statusColor: 'gold',
+    platform: 'Windows · macOS · Linux (Electron)',
+    github: 'https://github.com/TheAlarklynZone/Lumicidate',
+    icon: '🎟️',
+    tags: ['Habit Tracker App', 'Routines', 'Events', 'Open Source'],
+  },
 ]
 
 const upcomingTools = [
@@ -58,7 +69,7 @@ const upcomingTools = [
       'A system-wide emoji, symbol & glyph picker that replaces the broken Win+. experience. One global chord summons a fast overlay — search emoji, kaomoji, IPA symbols, math glyphs, and more — and inserts directly into any active app, zero clipboard roundtrip.',
     platform: 'Windows · macOS · Linux (Tauri)',
     github: 'https://github.com/TheAlarklynZone/Varmojii',
-    icon: '✨',
+    icon: '🛰️',
     tags: ['Emoji Picker', 'Desktop', 'Coming Soon'],
   },
 ]
