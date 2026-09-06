@@ -40,7 +40,7 @@ const liveTools = [
     {
     name: 'ARGIS',
     tagline: 'A Really Great Imagery System',
-    description: 'A free, open-source, dark-mode-first is an All-In-One Gallery System that can read all visual style files!',
+    description: 'A free, open-source, dark-mode-first is an All-In-One Gallery System that can read all visual style files! The main flagship feature for this app the Loop Feature. Any generic Windows app never do it justice',
     status: 'In Development',
     statusColor: 'gold',
     platform: 'Windows · macOS · Linux (Electron)',
